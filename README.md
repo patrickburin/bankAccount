@@ -6,4 +6,4 @@ O projeto Bank Account é a simulação do back end de um caixa eletrônico, ten
 
 ## Instalação
 
-Basta clonar o repositório utilizando o comando: "git clone https://github.com/patrickburin/bankAccount.git" e instalar seus módulos externos com "npm install inquirer chalk"
+É preciso clonar o repositório utilizando o comando: "git clone https://github.com/patrickburin/bankAccount.git" e instalar seus módulos externos com "npm install inquirer chalk". Em seguida dê o comando "npm start" e a aplicação será iniciada.
